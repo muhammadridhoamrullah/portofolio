@@ -14,7 +14,7 @@ import css from "../assets/css.png";
 import vite from "../assets/vite.svg";
 import tailwind from "../assets/tailwind.png";
 import bootstrap from "../assets/bootstrap.png";
-import nextjs from "../assets/nextjs.png";
+import nextjs from "../assets/nextJs.png";
 import reactNative from "../assets/rNative.png";
 import apolloClient from "../assets/apolloC.png";
 import express from "../assets/expressJs.png";
