@@ -30,7 +30,6 @@ import github from "../assets/github.png";
 import vscode from "../assets/vscode.png";
 import contohPorto from "../assets/contohPorto.png";
 
-// Express, Sequelize, PostgreSQL, Rest API, MongoDB, Apollo GraphQL, Redis
 
 export default function LandingPage() {
   const CVRidho = "./cvMRidhoA.pdf";
